@@ -1,4 +1,4 @@
-* Projeto ainda incompleto. Estou invesindo meu tempo em outro projeto
+* Projeto ainda incompleto. Estou investindo meu tempo em outro projeto.
 
 # AngularBuzzfeed
 
